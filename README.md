@@ -33,7 +33,7 @@ Atuar como **estagiário em desenvolvimento back-end**, com foco em sistemas e b
 ---
 
 ## 📫 Contato
-![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(www.linkedin.com/in/danilosalmeida)
+![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(www.linkedin.com/in/danilosalmeida-)
  
 ![Blog](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)  
 ---
