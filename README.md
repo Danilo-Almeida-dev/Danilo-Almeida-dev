@@ -28,7 +28,7 @@ Atuar como **estagiário em desenvolvimento back-end**, com foco em sistemas e b
 ---
 
 ## 🌍 Idiomas
-- **Inglês:** Básico a intermediário (leitura técnica e comunicação simples)
+- **Inglês:** Básico a intermediário.
 
 ---
 
