@@ -23,7 +23,7 @@ Tenho interesse especial na área de **banco de dados**, principalmente com **Po
 ---
 
 ## 🎯 Objetivo Profissional
-Atuar como **estagiário em desenvolvimento back-end**, com foco em sistemas e banco de dados, colocando em prática os conhecimentos adquiridos na graduação e evoluindo tecnicamente na área de tecnologia.
+Atuar como **estagiário em análise de dados**, colocando em prática os conhecimentos adquiridos na graduação e evoluindo tecnicamente na área de tecnologia.
 
 ---
 
